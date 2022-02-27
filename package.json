@@ -1,0 +1,22 @@
+{
+  "name": "telegram-discord-bridge",
+  "version": "0.1.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "run": "tsc && node output/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "telegram"
+  ],
+  "author": "Lapor Chen",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "node-telegram-bot-api": "^0.56.0"
+  },
+  "devDependencies": {
+    "@types/node-telegram-bot-api": "^0.56.0"
+  }
+}

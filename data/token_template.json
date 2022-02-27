@@ -1,0 +1,5 @@
+{
+    "telegram": "Telegram Bot API",
+    "discord" : "Discord Bot API",
+    "guildId": "Discord Server ID"
+}
